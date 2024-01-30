@@ -8,5 +8,9 @@
 <body>
     <h1>Git PHP</h1>
     <p>testing</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
